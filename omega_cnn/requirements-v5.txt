@@ -1,0 +1,2 @@
+-r requirements-v3.txt
+torch>=2.6
