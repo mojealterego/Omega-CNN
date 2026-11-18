@@ -1,0 +1,17 @@
+E
+======================================================================
+ERROR: test_adaptive (unittest.loader._FailedTest.test_adaptive)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: test_adaptive
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/unittest/loader.py", line 137, in loadTestsFromName
+    module = __import__(module_name)
+  File "/mnt/data/v3/omega_cnn/test_adaptive.py", line 4, in <module>
+    from adaptive import Adaptive, calibrate
+ModuleNotFoundError: No module named 'adaptive'
+
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)
