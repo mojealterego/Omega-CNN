@@ -1,0 +1,61 @@
+{
+  "candidates": [
+    {
+      "width": 16,
+      "robust": false,
+      "parameters": 38282,
+      "validation": {
+        "clean": 0.9694444537162781,
+        "pgd": 0.4166666567325592
+      }
+    },
+    {
+      "width": 16,
+      "robust": true,
+      "parameters": 38282,
+      "validation": {
+        "clean": 0.9861111044883728,
+        "pgd": 0.75
+      }
+    },
+    {
+      "width": 32,
+      "robust": false,
+      "parameters": 85066,
+      "validation": {
+        "clean": 0.9777777791023254,
+        "pgd": 0.45277777314186096
+      }
+    },
+    {
+      "width": 32,
+      "robust": true,
+      "parameters": 85066,
+      "validation": {
+        "clean": 0.9861111044883728,
+        "pgd": 0.8277778029441833
+      }
+    }
+  ],
+  "selected": {
+    "width": 32,
+    "robust": true,
+    "parameters": 85066,
+    "validation": {
+      "clean": 0.9861111044883728,
+      "pgd": 0.8277778029441833
+    }
+  },
+  "test": {
+    "clean": 0.9861111044883728,
+    "pgd": 0.8027777671813965
+  },
+  "split": [
+    1077,
+    360,
+    360
+  ],
+  "epsilon": 0.12,
+  "attack_steps": 10,
+  "seed": 42
+}
