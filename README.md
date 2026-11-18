@@ -1,5 +1,3 @@
 # Omega-CNN
 
-OMEGA CNN ONNX Toolkit — adaptive inference, conformal prediction, OOD detection and adversarial training.
-
-Import v1–v5 in progress. Main branch only.
+Partial import of v1–v5: core source modules. Model binaries, tests and historical archives are not yet imported. Main branch only.
