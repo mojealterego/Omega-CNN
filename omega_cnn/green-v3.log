@@ -1,0 +1,15 @@
+test_blank (test_adaptive.AdaptiveTests.test_blank) ... ok
+test_cascade (test_adaptive.AdaptiveTests.test_cascade) ... ok
+test_invalid_config (test_adaptive.AdaptiveTests.test_invalid_config) ... ok
+test_invalid_input (test_adaptive.AdaptiveTests.test_invalid_input) ... ok
+test_temperature (test_adaptive.AdaptiveTests.test_temperature) ... ok
+test_batch (test_engine.Tests.test_batch) ... ok
+test_chunk (test_engine.Tests.test_chunk) ... ok
+test_invalid (test_engine.Tests.test_invalid) ... ok
+test_scale (test_engine.Tests.test_scale) ... ok
+test_translation (test_engine.Tests.test_translation) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.014s
+
+OK
