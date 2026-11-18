@@ -1,0 +1,25 @@
+{
+  "reference_n": 718,
+  "calibration_n": 539,
+  "q": 0.5007486939430237,
+  "distance_threshold": 2.1074644125109208,
+  "clean": {
+    "n": 540,
+    "set_coverage": 0.9944444444444445,
+    "acceptance": 0.9814814814814815,
+    "accepted_accuracy": 1,
+    "ood_rate": 0.012962962962962963,
+    "mean_set_size": 0.9944444444444445
+  },
+  "noise": {
+    "n": 540,
+    "set_coverage": 0.9666666666666667,
+    "acceptance": 0.9574074074074074,
+    "accepted_accuracy": 0.9825918762088974,
+    "ood_rate": 0.027777777777777776,
+    "mean_set_size": 0.9833333333333333
+  },
+  "uniform_ood": 1,
+  "blank_ood": 1,
+  "training_overlap_unknown": true
+}
