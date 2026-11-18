@@ -1,0 +1,17 @@
+E
+======================================================================
+ERROR: test_conformal (unittest.loader._FailedTest.test_conformal)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: test_conformal
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/unittest/loader.py", line 137, in loadTestsFromName
+    module = __import__(module_name)
+  File "/mnt/data/v4/omega_cnn/test_conformal.py", line 3, in <module>
+    from conformal import quantile, Conformal
+ModuleNotFoundError: No module named 'conformal'
+
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)
