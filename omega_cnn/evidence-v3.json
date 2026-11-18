@@ -1,0 +1,26 @@
+{
+  "temperature": 0.6657084260178557,
+  "calibration_n": 898,
+  "evaluation_n": 899,
+  "clean": {
+    "n": 899,
+    "coverage": 0.978865406006674,
+    "accuracy_all": 0.9777530589543938,
+    "accuracy_accepted": 0.9988636363636364,
+    "escalation": 0.04560622914349277,
+    "nll": 0.01865457370877266,
+    "seconds": 0.012695291999989422
+  },
+  "noise_sigma_2": {
+    "n": 899,
+    "coverage": 0.946607341490545,
+    "accuracy_all": 0.9399332591768632,
+    "accuracy_accepted": 0.9929494712103408,
+    "escalation": 0.09788654060066741,
+    "nll": 0.06664809584617615,
+    "seconds": 0.015523169000061898
+  },
+  "blank_rejection": 1,
+  "uniform_noise_rejection": 0.476,
+  "training_overlap_unknown": true
+}
