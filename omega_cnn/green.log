@@ -1,0 +1,10 @@
+test_batch (test_engine.Tests.test_batch) ... ok
+test_chunk (test_engine.Tests.test_chunk) ... ok
+test_invalid (test_engine.Tests.test_invalid) ... ok
+test_scale (test_engine.Tests.test_scale) ... ok
+test_translation (test_engine.Tests.test_translation) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.011s
+
+OK
