@@ -1,0 +1,21 @@
+test_blank (test_adaptive.AdaptiveTests.test_blank) ... ok
+test_cascade (test_adaptive.AdaptiveTests.test_cascade) ... ok
+test_invalid_config (test_adaptive.AdaptiveTests.test_invalid_config) ... ok
+test_invalid_input (test_adaptive.AdaptiveTests.test_invalid_input) ... ok
+test_temperature (test_adaptive.AdaptiveTests.test_temperature) ... ok
+test_invalid (test_conformal.Tests.test_invalid) ... ok
+test_quantile (test_conformal.Tests.test_quantile) ... ok
+test_real (test_conformal.Tests.test_real) ... ok
+test_batch (test_engine.Tests.test_batch) ... ok
+test_chunk (test_engine.Tests.test_chunk) ... ok
+test_invalid (test_engine.Tests.test_invalid) ... ok
+test_scale (test_engine.Tests.test_scale) ... ok
+test_translation (test_engine.Tests.test_translation) ... ok
+test_attack_bounds_and_no_parameter_grads (test_training.TrainingTests.test_attack_bounds_and_no_parameter_grads) ... ok
+test_attack_increases_loss (test_training.TrainingTests.test_attack_increases_loss) ... ok
+test_shape (test_training.TrainingTests.test_shape) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 0.082s
+
+OK
